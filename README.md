@@ -61,6 +61,11 @@ void loop()
 
 
 ## OUTPUT:
+## OFF
+<img width="1069" height="746" alt="image" src="https://github.com/user-attachments/assets/f714ba52-ec6c-4178-9712-16fa5da16fd5" />
+
+## ON
+
 <img width="1087" height="784" alt="image" src="https://github.com/user-attachments/assets/f4bc21dd-c6fa-489d-8834-23597d6a9a8b" />
 
 
