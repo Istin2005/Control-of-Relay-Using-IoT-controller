@@ -1,4 +1,6 @@
-# Control-of-Relay-Using-IoT-controller
+# REG NO:212223040068
+# NAME : ISTIN B
+# EX 2 Control of Relay Using IoTcontroller
 
 ##  AIM:
 To control the Relay using Arduino controller
